@@ -1,10 +1,10 @@
 window.onload = () => {
     console.log("pagina cargada");
 
-    
+    eoutclick()
     hard();
     easy();
-
+    
     adivina();
     again();
 
